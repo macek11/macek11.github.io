@@ -7,7 +7,7 @@
     font-family: 'Aldrich', sans-serif;
     text-transform: uppercase;
     transition: color 0.3s ease-in-out;
-    color: black; }
+    color: #black; }
     .navbar.navbar-default .navbar-nav > li > a:hover, .navbar.navbar-default .navbar-nav > li > a:focus, .navbar.navbar-default .navbar-nav > li > a:active, .navbar.navbar-default .navbar-header .navbar-brand:hover, .navbar.navbar-default .navbar-header .navbar-brand:focus, .navbar.navbar-default .navbar-header .navbar-brand:active {
       color: #48A09B; }
 
