@@ -26,6 +26,7 @@ section {
     padding-top: 30px;
     padding-bottom: 30px;
   }
+  //this is home section
   &.home-intro {
     background-color: #AFB1C9;
     background-image:url('https://jpk-image-hosting.s3.amazonaws.com/skyline.jpg');
@@ -71,6 +72,7 @@ section {
           }
         }
       }
+//this is section Biography
       &.about {
         background-color: #A4B5BF;
         background-image: url('https://jpk-image-hosting.s3.amazonaws.com/computer-desk.jpg');
@@ -88,6 +90,25 @@ section {
           font-weight: 700;
         }
       }
+  // new events section create 05/01/2019
+      &.events {
+        background-color: #A4B5BF;
+        background-image: url('https://jpk-image-hosting.s3.amazonaws.com/computer-desk.jpg');
+        color: #FEFDEB;
+        // font-family: "Cantarell", sans-serif;
+        font-family: 'Aldrich', sans-serif;
+        p{
+          font-size: 16px;
+          font-weight: 400;
+          line-height: 1.4;
+        }
+        blockquote {
+          font-family: 'Aldrich', sans-serif;
+          // font-family: "Cantarell", sans-serif;
+          font-weight: 700;
+        }
+      }
+//this section is Listen
       &.portfolio {
         background-color: #9DE0AD;
         background-image:  url('https://jpk-image-hosting.s3.amazonaws.com/chalk.jpg');
